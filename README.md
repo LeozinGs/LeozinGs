@@ -1,21 +1,5 @@
-![Header](header.png)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Leonardo and I'm a 
-Front-end development apprentice, from Brazil</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Javascript<br>
+#:tada:Oi, me chamo Leonardo Gomes.
+## Atualmente estudo programação Front-end na alura, por enquanto aprendendo Javascript desde o 0, e pretendo um dia atuar na área, quero muito conhecer todos os lados dessa área tão complexa e ao mesmo tempo tão divertida de se mexer.
 
 ###
 
@@ -28,9 +12,7 @@ Front-end development apprentice, from Brazil</p>
 
 ###
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeozinGs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeozinGs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
