@@ -1,5 +1,5 @@
 ## :tada: Oi, me chamo Leonardo Gomes.
-Atualmente estudo programação Front-end na alura, por enquanto aprendendo Javascript desde o 0, e pretendo um dia atuar na área, quero muito conhecer todos os lados dessa área tão complexa e ao mesmo tempo tão divertida de se mexer.
+Sou um aprendiz de Front-end tentando nao codar muitos bugs kkk.
 
 ###
 
@@ -12,7 +12,7 @@ Atualmente estudo programação Front-end na alura, por enquanto aprendendo Java
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeozinGs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
