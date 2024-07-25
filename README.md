@@ -1,5 +1,5 @@
-#:tada:Oi, me chamo Leonardo Gomes.
-## Atualmente estudo programação Front-end na alura, por enquanto aprendendo Javascript desde o 0, e pretendo um dia atuar na área, quero muito conhecer todos os lados dessa área tão complexa e ao mesmo tempo tão divertida de se mexer.
+## :tada: Oi, me chamo Leonardo Gomes.
+Atualmente estudo programação Front-end na alura, por enquanto aprendendo Javascript desde o 0, e pretendo um dia atuar na área, quero muito conhecer todos os lados dessa área tão complexa e ao mesmo tempo tão divertida de se mexer.
 
 ###
 
