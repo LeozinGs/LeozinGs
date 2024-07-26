@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 ## :tada: Hi! I am Leonardo and welcome to my profile
-I'm a fron-end developer trying to avoid bugs haha!
+I'm a front-end developer trying to avoid bugs haha!
 
 I've been studying front-end since 2024 on Alura.
 
