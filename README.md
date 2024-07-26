@@ -8,9 +8,9 @@ What made me start studying programming was the fact that I always wanted to kno
 
 ###
 
-## About me:
-- 🌎: I'm from Brazil
-- 🎮: Love gaming
+## About me
+- 🌎 I'm from Brazil
+- 🎮 Love gaming
 - 👽 Aways searching for an answer o.O
 - 🎸 Love music and playing guitar(even though I don't know very well how to play the guitar) :D
 
