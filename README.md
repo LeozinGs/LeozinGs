@@ -31,10 +31,6 @@ What made me start studying programming was the fact that I always wanted to kno
 
 ###
 
-# Thanks for passing by <3
-
-<div align="center" style="padding-top: 40px;">
-    <img src="https://profile-counter.glitch.me/LeozinGs/count.svg" alt="Profile Counter"/>
-</div>
+# Thanks for passing by ❤️
 
 ###
